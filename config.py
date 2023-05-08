@@ -1,0 +1,5 @@
+API_TOKEN = '5548506423:AAH8F09p6fEYDJ3poDL36h26dy5eWyjITU0'
+PASSWORD = '8600'
+DB_LOGIN = 'db_crit_servis'
+USER = "root"
+HOST = "127.0.0.1"
